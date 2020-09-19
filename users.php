@@ -25,7 +25,9 @@
 
 <!DOCTYPE html>
 <html>
-	
+	<head>
+		<title>Users</title>
+	</head>
 	<?php include('header.php'); ?>
      <hr>
 	<h4 class="center darkred-text" style="color:black;

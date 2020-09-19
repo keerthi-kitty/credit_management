@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <title>Transaction</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 <link rel="stylesheet" href= 
 "https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"> 

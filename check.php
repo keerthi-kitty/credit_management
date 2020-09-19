@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<title>Transaction Status</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -91,6 +92,6 @@ else
 
 ?>
 </h1>
-<a href="index.php"><button type="button" class="button">DONE</button></a>
+<a href="home.php"><button type="button" class="button">DONE</button></a>
 </body>
 </html>

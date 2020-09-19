@@ -1,51 +1,75 @@
 <!DOCTYPE html>
-<html lang="eg">
+<html lang="en">
+
 <head>
- <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-<!-- Optional theme -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+  <title>Keerthi M R</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
 
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-	<link rel="stylesheet" type="text/css" href="style.css">
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: BizLand - v1.1.0
+  * Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
 </head>
-<section>
-  <body>
-  	<hr>
-  	
-<div  id="hero" >
-	<h1 style="color:black;
-	font-size: 5em;
-	font-family: Times"> WELCOME TO TSF</h1>
-	<h1 style="color:black;
-	font-size: 5em;
-	font-family: Times"> CREDIT MANAGEMENT SYSTEM</h1>
-	<a href="users.php"><p>
-<button type="button" class=button>User List</button></p></a>
-<a href="transaction.php"
-><p>
-<button type="button" class=button>Credit Transfer</button>
-</p></a>
-<a href="history.php">
-<p>
-<button type="button" class=button>Transactions</button></p></a>
+
+<body>
+
+  <section id="hero" class="d-flex align-items-center">
+    <div class="container" data-aos="zoom-out" data-aos-delay="100">
+      <h1>Hi, I am <span>KEERTHI M R</spa>
+      </h1>
+      <h2>This is my task 2 of web development internship offered by TSF</h2>
+      <div class="d-flex">
+        <a href="home.php" class="btn-get-started scrollto">Get Started</a>
+        
+      </div>
+    </div>
+  </section><!-- End Hero -->
+</span>
+</h1>
 </div>
-<hr>
+</section>
+<div id="preloader"></div>
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="assets/vendor/counterup/counterup.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
 </body>
-</section>
-<section  id="hero">
-	<div><img src="img/5.jpg" width="400" height="300"></div>
-	<ul><li><h1 style="color:black;font-family: Times">This is Task# 2 - CreditManagement for The Sparks Foundation.This is a dynamic website where you can transfer fund from one user to other. User details and available credit have been shown in their profile . User data is connected with database where the details of all user are saved .In transfer page after transfer it will show the success message and all the transaction history of credit transfer.</h1></li>
-<li><h1 style="color:black;font-family: Times">
-THE SPARKS FOUNDATION</h1></li>
-<li><h1 style="color:black;font-family: Times">
-To inspire students, help them innovate and let them integrate to build the next generation humankind. Inspire: To inspire, motivate and encourage students to learn, create and help build a better society. Innovate: To teach new ways of thinking, to innovate and solve the problems on their own. Integrate: To let the students integrate, and help each other, learn from each other and do well together.
-</h1></li>
-</ul>
-<hr>
-</section>
 
 </html>

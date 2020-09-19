@@ -43,7 +43,7 @@
          
       <ul id="nav-mobile" class="right hide-on-small-and-down">
         <li>
-            <a href="index.php" class="btn brand z-depth-0">HOME PAGE</a>
+            <a href="home.php" class="btn brand z-depth-0">HOME PAGE</a>
            </li> 
         <li>
            <a href="users.php" class="btn brand z-depth-0">USERS</a>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="eg">
 <head>
+	<title>History</title>
 	<?php include('header.php'); ?>
 <link rel="stylesheet" type="text/css" href="style.css">
 <style>
